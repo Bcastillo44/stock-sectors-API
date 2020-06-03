@@ -15,9 +15,10 @@ let sectorSchema = new mongoose.Schema({
     CommunicationServices: Number,
     ConsumerStaples: Number
     
-})
+});
 
-let sectorModel = mongoose.model("Sector", sectorSchema)
+
+let sectorModel = mongoose.model("Sector", sectorSchema);
 
 module.exports = sectorModel
 
