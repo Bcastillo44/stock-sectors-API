@@ -1,128 +1,21 @@
 [
     {
         "title": "1 Day Performance",
-        "Energy": 2.65,
-        "Materials": 1.76,
-        "Industrials": 1.29,
-        "InformationTechnology": 0.94,
-        "Financials": 0.82,
-        "RealEstate": 0.66,
-        "ConsumerDiscretionary": 0.63,
-        "HealthCare": 0.61,
-        "Utilities": 0.60,
-        "CommunicationServices": 0.49,
-        "ConsumerStaples": 0.20
-    },
-    {
-        "title": "5 Day Performance",
-        "Utilities": 6.72,
-        "RealEstate": 5.43,
-        "Materials": 4.31,
-        "Financials": 3.49,
-        "ConsumerStaples": 3.32,
-        "Industrials": 3.20,
-        "HealthCare": 3.20,
-        "InformationTechnology": 2.51,
-        "ConsumerDiscretionary": 2.47,
-        "Energy": 2.36,
-        "CommunicationServices": 1.59
-    },
-    {
-        "title": "1 Month Performance",
-        "Energy": 11.79,
-        "ConsumerDiscretionary":  11.64,
-        "Materials":  11.58,
-        "InformationTechnology":  11.10,
-        "Industrials": 9.96,
-        "CommunicationServices": 9.07,
-        "Utilities": 8.29,
-        "RealEstate": 8.06,
-        "Financials": 8.05,
-        "HealthCare": 4.87,
-        "ConsumerStaples": 3.43
-    },
-    {
-        "title": "3 Month Performance",
-        "InformationTechnology": 11.99,
-        "ConsumerDiscretionary": 11.15,
-        "HealthCare": 10.94,
-        "Materials": 7.80,
-        "CommunicationServices": 7.00,
-        "ConsumerStaples": 2.61,
-        "Utilities": -2.15,
-        "RealEstate": -3.29,
-        "Industrials": -6.43,
-        "Financials":  10.32,
-        "Energy":  11.40
-    },
-    {
-        "title": "Year-to-Date Performance",
-        "InformationTechnology": 7.68,
-        "ConsumerDiscretionary": 3.20,
-        "Communication Services": 0.88,
-        "HealthCare": 0.43,
-        "ConsumerStaples": -5.60,
-        "Utilities": -6.47,
-        "Materials": -7.62,
-        "RealEstate": -8.36,
-        "Industrials":  15.85,
-        "Financials":  22.71,
-        "Energy":  33.32
-    },
-    {
-        "title": "1 Year Performance",
-        "InformationTechnology": 37.85,
-        "HealthCare": 18.50,
-        "CommunicationServices": 16.32,
-        "ConsumerDiscretionary": 15.86,
-        "Materials": 8.24,
-        "ConsumerStaples": 7.16,
-        "Utilities": 4.48,
-        "RealEstate": -2.16,
-        "Industrials": -4.33,
-        "Financials": -8.22,
-        "Energy": 29.56
-    },
-    {
-        "title": "3 Year Performance",
-        "InformationTechnology": 78.94,
-        "ConsumerDiscretionary": 39.43,
-        "HealthCare": 34.39,
-        "CommunicationServices": 14.73,
-        "Utilities": 12.23,
-        "RealEstate": 11.79,
-        "Materials": 6.13,
-        "ConsumerStaples": 4.27,
-        "Financials": 1.38,
-        "Industrials": -0.22,
-        "Energy":  36.90
-    },
-    {
-        "title": "5 Year Performance",
-        "InformationTechnology":  39.04,
-        "ConsumerDiscretionary": 67.88,
-        "Health Care": 37.52,
-        "Utilities": 36.49,
-        "ConsumerStaples": 22.12,
-        "Industrials": 20.20,
-        "Financials": 19.35,
-        "CommunicationServices": 17.23,
-        "Materials": 12.51,
-        "Energy":  46.61
-    },
-    {
-        "title": "10 Year Performance",
-        "InformationTechnology":  397.81,
-        "ConsumerDiscretionary":  306.08,
-        "HealthCare":  262.02,
-        "Industrials":  130.44,
-        "ConsumerStaples":  126.45,
-        "Utilities":  116.80,
-        "Financials":  104.46,
-        "Materials": 98.24,
-        "CommunicationServices": 80.34,
-        "Energy":  -19.79
+        "sectors": 
+        {
+            "Energy": 2.65,
+            "Materials": 1.76,
+            "Industrials": 1.29,
+            "InformationTechnology": 0.94,
+            "Financials": 0.82,
+            "RealEstate": 0.66,
+            "ConsumerDiscretionary": 0.63,
+            "HealthCare": 0.61,
+            "Utilities": 0.60,
+            "CommunicationServices": 0.49,
+            "ConsumerStaples": 0.20
+        }
     }
-
+    
 ]
     
