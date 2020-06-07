@@ -3,7 +3,8 @@ const Schema = mongoose.Schema;
 
 let sectorSchema = new mongoose.Schema({
     title: String,
-    sectors: {
+    lastrefreshed: String,
+    sectors: [{
         Energy: Number,
         Materials: Number,
         Industrials: Number,
@@ -15,7 +16,7 @@ let sectorSchema = new mongoose.Schema({
         Utilities: Number,
         CommunicationServices: Number,
         ConsumerStaples: Number
-    }
+    }]
 });
 
 let sectorModel = mongoose.model("Sector", sectorSchema);

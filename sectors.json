@@ -1,20 +1,164 @@
 [
-    {
-        "title": "1 Day Performance",
+    {   
+        "title": "United States Stock Sector Performance -- Real Time Performance of Stock Sectors -- Each number listed is in terms of a percentage.",
+        "lastrefreshed": "2020-06-07 18:00:19 US/Eastern",
         "sectors": 
-        {
-            "Energy": 2.65,
-            "Materials": 1.76,
-            "Industrials": 1.29,
-            "InformationTechnology": 0.94,
-            "Financials": 0.82,
-            "RealEstate": 0.66,
-            "ConsumerDiscretionary": 0.63,
-            "HealthCare": 0.61,
-            "Utilities": 0.60,
-            "CommunicationServices": 0.49,
-            "ConsumerStaples": 0.20
-        }
+        [{
+            "Energy": 7.46,
+            "Financials": 3.87,
+            "Industrials": 3.71,
+            "RealEstate": 3.60,
+            "InformationTechnology": 2.69,
+            "Materials": 2.50,
+            "ConsumerDiscretionary": 2.13,
+            "CommunicationServices": 1.68,
+            "HealthCare": 1.66,
+            "ConsumerStaples": 1.45,
+            "Utilities": 1.36   
+        }]
+    },
+    {
+        "title": "United States Stock Sector Performance -- 5 Day Performance of Stock Sectors -- Each number listed is in terms of a percentage.",
+        "lastrefreshed": "2020-06-07 18:00:19 US/Eastern",
+        "sectors": 
+        [{
+        "Energy": 15.41,
+        "Financials": 12.16,
+        "Industrials": 10.52,
+        "Materials": 7.65,
+        "RealEstate": 7.07,
+        "ConsumerDiscretionary": 4.75,
+        "InformationTechnology": 3.65,
+        "CommunicationServices": 2.38,
+        "Utilities": 2.36,
+        "ConsumerStaples": 1.89, 
+        "HealthCare": 0.23
+        }]
+    },
+    {
+        "title": "United States Stock Sector Performance -- 1 Month Performance of Stock Sectors -- Each number listed is in terms of a percentage.",
+        "lastrefreshed": "2020-06-07 18:00:19 US/Eastern",
+        "sectors": 
+        [{
+        "Industrials": 21.37,
+        "Financials": 19.92,
+        "Energy": 19.17,
+        "Materials":  16.92,
+        "ConsumerDiscretionary":  14.37,
+        "RealEstate": 12.59,
+        "InformationTechnology":  12.46,
+        "CommunicationServices": 9.89,
+        "Utilities": 8.20,
+        "HealthCare": 5.46,
+        "ConsumerStaples": 4.52
+        }]
+    },
+    {
+        "title": "United States Stock Sector Performance -- 3 Month Performance of Stock Sectors -- Each number listed is in terms of a percentage.",
+        "lastrefreshed": "2020-06-07 18:00:19 US/Eastern",
+        "sectors": 
+        [{
+        "ConsumerDiscretionary": 9.67,
+        "InformationTechnology": 8.41,
+        "Materials": 5.49,
+        "CommunicationServices": 4.26,
+        "HealthCare": 3.28,
+        "Industrials": -2.45,
+        "Energy":  -3.92,
+        "ConsumerStaples": -5.06,
+        "Financials":  -5.42,
+        "RealEstate": -7.68,
+        "Utilities": -10.92
+        }]
+    },
+    {
+        "title": "United States Stock Sector Performance -- Year-to-Date (YTD) Performance of Stock Sectors -- Each number listed is in terms of a percentage.",
+        "lastrefreshed": "2020-06-07 18:00:19 US/Eastern",
+        "sectors": 
+        [{
+        "InformationTechnology": 10.55,
+        "ConsumerDiscretionary": 6.45,
+        "Communication Services": 1.96,
+        "HealthCare": 1.07,
+        "Materials": -2.81,
+        "RealEstate": -4.54,
+        "ConsumerStaples": -4.60,
+        "Utilities": -5.84,
+        "Industrials": -8.36,
+        "Financials": -15.01,
+        "Energy":  -26.28
+        }]
+    },
+    {
+        "title": "United States Stock Sector Performance -- 1 Year Performance of Stock Sectors -- Each number listed is in terms of a percentage.",
+        "lastrefreshed": "2020-06-07 18:00:19 US/Eastern",
+        "sectors": 
+        [{
+        "InformationTechnology": 39.50,
+        "HealthCare": 18.87,
+        "CommunicationServices": 17.83,
+        "ConsumerDiscretionary": 16.92,
+        "Materials": 7.15,
+        "ConsumerStaples": 6.06,
+        "Utilities": 4.06,
+        "RealEstate": 2.05,
+        "Industrials": 1.06,
+        "Financials": -2.40,
+        "Energy": -24.39
+        }]
+    },
+    {
+        "title": "United States Stock Sector Performance -- 3 Year Performance of Stock Sectors -- Each number listed is in terms of a percentage.",
+        "lastrefreshed": "2020-06-07 18:00:19 US/Eastern",
+        "sectors": 
+        [{
+        
+        "InformationTechnology": 81.81,
+        "ConsumerDiscretionary": 43.24,
+        "HealthCare": 34.46,
+        "CommunicationServices": 16.03,
+        "RealEstate": 15.47,
+        "Utilities": 12.82,
+        "Financials": 11.90,
+        "Materials": 11.25,
+        "Industrials": 8.14,
+        "ConsumerStaples": 5.01,
+        "Energy":  -29.40
+        }]
+    },
+    {
+        "title": "United States Stock Sector Performance -- 5 Year Performance of Stock Sectors -- Each number listed is in terms of a percentage.",
+        "lastrefreshed": "2020-06-07 18:00:19 US/Eastern",
+        "sectors": 
+        [{
+        "InformationTechnology":  148.00,
+        "ConsumerDiscretionary": 72.84,
+        "Utilities": 41.67,
+        "Health Care": 39.99,
+        "Industrials": 31.50,
+        "Financials": 31.22,
+        "ConsumerStaples": 25.00,
+        "Materials": 19.43,
+        "CommunicationServices": 18.51,
+        "Energy":  -40.14
+        }]
+    },
+    {
+        "title": "United States Stock Sector Performance -- 10 Year Performance of Stock Sectors -- Each number listed is in terms of a percentage.",
+        "lastrefreshed": "2020-06-07 18:00:19 US/Eastern",
+        "sectors": 
+        [{
+        "InformationTechnology":  410.69,
+        "ConsumerDiscretionary":  323.53,
+        "HealthCare":  265.25,
+        "Industrials":  155.30,
+        "ConsumerStaples":  130.74,
+        "Financials":  128.40,
+        "Utilities":  118.13,
+        "Materials": 113.13,
+        "CommunicationServices": 82.36,
+        "Energy":  -12.87
+        }]
     }
     
 ]

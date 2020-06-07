@@ -1,7 +1,10 @@
 let express = require("express")
 let app = express()
+let cors = require('cors')
+app.use(cors())
 
 app.use(express.json())
+
 
 let Sector = require("./models/Sector")
 
@@ -12,7 +15,7 @@ app.get("/", (request, response) => {
     .then(sectors => response.json(sectors))
 })
 
-app.get("/sector", (request, response) => {
+app.get("/sector/", (request, response) => {
     Sector
     .find({})
     .then(sectors => response.json(sectors))
@@ -24,7 +27,7 @@ app.get("/title/:title", (request, response) => {
     .then(sectors => response.json(sectors))
 })
 
-app.post("/sector/:id", (request, response) => {
+app.post("/sector", (request, response) => {
     let sector = request.body
     Sector
         .create(sector)
