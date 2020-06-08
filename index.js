@@ -1,13 +1,9 @@
 let express = require("express")
-
 let app = express()
-
 let cors = require('cors')
-
 let Sector = require("./models/Sector")
 
 app.use(cors())
-
 app.use(express.json())
 
 

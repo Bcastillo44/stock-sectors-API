@@ -1,6 +1,6 @@
 [
     {   
-        "title": "United States Stock Sector Performance -- Real Time Performance of Stock Sectors -- Each number listed is in terms of a percentage.",
+        "title": "onedayperformance",
         "lastrefreshed": "2020-06-07 18:00:19 US/Eastern",
         "sectors": 
         [{
@@ -18,7 +18,7 @@
         }]
     },
     {
-        "title": "United States Stock Sector Performance -- 5 Day Performance of Stock Sectors -- Each number listed is in terms of a percentage.",
+        "title": "fivedayperformance",
         "lastrefreshed": "2020-06-07 18:00:19 US/Eastern",
         "sectors": 
         [{
@@ -36,7 +36,7 @@
         }]
     },
     {
-        "title": "United States Stock Sector Performance -- 1 Month Performance of Stock Sectors -- Each number listed is in terms of a percentage.",
+        "title": "onemonthperformance",
         "lastrefreshed": "2020-06-07 18:00:19 US/Eastern",
         "sectors": 
         [{
@@ -54,7 +54,7 @@
         }]
     },
     {
-        "title": "United States Stock Sector Performance -- 3 Month Performance of Stock Sectors -- Each number listed is in terms of a percentage.",
+        "title": "threemonthperformance",
         "lastrefreshed": "2020-06-07 18:00:19 US/Eastern",
         "sectors": 
         [{
@@ -72,7 +72,7 @@
         }]
     },
     {
-        "title": "United States Stock Sector Performance -- Year-to-Date (YTD) Performance of Stock Sectors -- Each number listed is in terms of a percentage.",
+        "title": "yeartodateperformance",
         "lastrefreshed": "2020-06-07 18:00:19 US/Eastern",
         "sectors": 
         [{
@@ -90,7 +90,7 @@
         }]
     },
     {
-        "title": "United States Stock Sector Performance -- 1 Year Performance of Stock Sectors -- Each number listed is in terms of a percentage.",
+        "title": "oneyearperformance",
         "lastrefreshed": "2020-06-07 18:00:19 US/Eastern",
         "sectors": 
         [{
@@ -108,7 +108,7 @@
         }]
     },
     {
-        "title": "United States Stock Sector Performance -- 3 Year Performance of Stock Sectors -- Each number listed is in terms of a percentage.",
+        "title": "threeyearperformance",
         "lastrefreshed": "2020-06-07 18:00:19 US/Eastern",
         "sectors": 
         [{
@@ -127,7 +127,7 @@
         }]
     },
     {
-        "title": "United States Stock Sector Performance -- 5 Year Performance of Stock Sectors -- Each number listed is in terms of a percentage.",
+        "title": "fiveyearperformance",
         "lastrefreshed": "2020-06-07 18:00:19 US/Eastern",
         "sectors": 
         [{
@@ -144,7 +144,7 @@
         }]
     },
     {
-        "title": "United States Stock Sector Performance -- 10 Year Performance of Stock Sectors -- Each number listed is in terms of a percentage.",
+        "title": "tenyearperformance",
         "lastrefreshed": "2020-06-07 18:00:19 US/Eastern",
         "sectors": 
         [{
