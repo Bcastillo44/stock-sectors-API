@@ -1,12 +1,15 @@
 let express = require("express")
-let app = express()
-let cors = require('cors')
-app.use(cors())
 
+let app = express()
+
+let cors = require('cors')
+
+let Sector = require("./models/Sector")
+
+app.use(cors())
 app.use(express.json())
 
 
-let Sector = require("./models/Sector")
 
 
 app.get("/", (request, response) => {
@@ -53,10 +56,14 @@ app.delete("/sector/:id", (request, response) => {
         })
     })
 
-    
-app.listen(3000, () => {
-    console.log("Connected")
-})
+
+app.set("port", process.env.PORT || 3000);
+
+
+app.listen(app.get("port"), () => {
+    console.log(`PORT: ${app.get("port")} `);
+   
+});
 
 
 
