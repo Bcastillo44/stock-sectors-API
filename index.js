@@ -7,6 +7,7 @@ let cors = require('cors')
 let Sector = require("./models/Sector")
 
 app.use(cors())
+
 app.use(express.json())
 
 
@@ -57,11 +58,10 @@ app.delete("/sector/:id", (request, response) => {
 
 app.set("port", process.env.PORT || 3000);
 
-
-app.listen(app.get("port"), () => {
-    console.log(`PORT: ${app.get("port")} `);
+app.listen(app.get("port"), () => 
+    console.log(`PORT: ${app.get("port")} `)
    
-});
+);
 
 
 

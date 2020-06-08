@@ -1,5 +1,6 @@
-let Sector = require("../models/Sector.js")
-let json = require("../sectors.json")
+let mongoose = require("./connection");
+let Sector = require("../models/Sector.js");
+let json = require("../sectors.json");
 
 Sector
 .deleteMany({})
