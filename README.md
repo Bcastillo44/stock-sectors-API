@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-API can be viewed on Heroku:
+API can be viewed on Heroku: https://stock-sector-api.herokuapp.com/
 
 ***
 
